@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: BioTensors AI
+version: 0.1.0
+date-released: 2026-05-20
+authors:
+  - family-names: Ernens
+    given-names: Christophe
+    affiliation: Independent researcher, Belgium
+repository-code: "https://github.com/chrisernens-beep/BioTensors-AI"
+url: "https://github.com/chrisernens-beep/BioTensors-AI"
+license: MIT
+keywords:
+  - spiking neural network
+  - STDP
+  - neuromorphic
+  - autonomous systems
+abstract: >
+  Research preview of a spiking neural network stack with STDP learning,
+  layered cortical architecture, and optional multimodal inputs. Targets
+  low-CPU, memory-centric autonomy for constrained environments.
